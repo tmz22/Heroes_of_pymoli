@@ -19,7 +19,7 @@ Now, it's time to take what you've learned about Python Pandas and apply it to n
 
 5. Push the above changes to GitHub or GitLab.
 
-## Option 1: Heroes of Pymoli
+Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
 
