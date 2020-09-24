@@ -1,4 +1,4 @@
-# Pandas-challange
+# Pandas
 Pandas
 
 ## Background
