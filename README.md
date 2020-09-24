@@ -13,7 +13,7 @@ Now, it's time to take what you've learned about Python Pandas and apply it to n
 
 2. Clone the new repository to your computer.
 
-3. Inside your local git repository, create a directory for the Pandas Challenge you choose. Use folder names corresponding to the challenges: **HeroesOfPymoli** or  **PyCitySchools**.
+3. Inside your local git repository, create a directory for the Pandas Challenge you choose. Use folder names corresponding to the challenges: **HeroesOfPymoli**
 
 4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
 
