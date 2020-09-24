@@ -1,4 +1,4 @@
-# Pandas - Heroes 
+# Pandas - Heroes of Pymoli
 Pandas
 
 ## Background
